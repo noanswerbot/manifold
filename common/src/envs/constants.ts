@@ -180,7 +180,8 @@ export const BOT_USERNAMES = [
   'ShrimpLute',
   'kbot',
   'ataribot',
-  'RISKBOT'
+  'RISKBOT',
+  'NoAnswerBOT'
 ]
 
 export const MOD_IDS = [
